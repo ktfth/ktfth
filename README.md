@@ -1,4 +1,17 @@
-### Hi there 👋
+# Kaique da Silva
+
+## Working on
+
+Medicine projects
+
+## Learning
+
+GPU for parallelism
+
+## Collaborate
+
+Open source projects with a lot of impact
+on development process
 
 <!--
 **ktfth/ktfth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
